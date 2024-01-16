@@ -8,3 +8,5 @@ Python app to test tracking accuracy with different Win32PrioritySeparation valu
 ## Usage
 * Run `main.py` **as administrator** (for registry access)
 * Track the ball. The app will switch between different Win32PrioritySeparation values and report your accuracy for each 
+
+![image](https://github.com/squeakerdev/QuantumTester/assets/67602269/2870418a-1698-4875-b38f-c1ff3861b6b1)
