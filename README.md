@@ -1,5 +1,5 @@
 # QuantumTester
-Python app to test tracking accuracy with different Win32PrioritySeparation values
+Python app to test tracking accuracy with different Win32PrioritySeparation values. Take with a heap of salt as the app was made for fun and is non-scientific 
 
 ## Installation
 * Install a recent version of [Python 3](https://www.python.org/downloads/)
